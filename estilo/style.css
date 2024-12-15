@@ -71,7 +71,7 @@ section.imagem{
     color: white;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.559);
     background-size: cover;
-    background-attachment: fixed;
+    
 
 }
 section.imagem > p{
